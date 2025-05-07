@@ -18,7 +18,7 @@ from telegram.error import TelegramError
 nest_asyncio.apply()
 logging.basicConfig(level=logging.WARNING)
 
-BOT_TOKEN = "8087324556:AAHA3be2HtQ1P3thT2JPdu-49YKDV9C9TgQ"
+BOT_TOKEN = "7045831506:AAEM3hcEJ8geES4DspSAQzFZ8mbM1CWPvIk"
 OWNER_ID = 1420080384  # Replace with your Telegram user ID
 SETTINGS_FILE = "group_settings.json"
 BACKUP_CHANNEL_ID = -1002427674407  # Your backup channel ID
