@@ -1,0 +1,46 @@
+{
+  "-1002377392184": {
+    "admin_delete_time": 300,
+    "whitelist": []
+  },
+  "-1002447040439": {
+    "admin_delete_time": 60,
+    "whitelist": [
+      814888704
+    ]
+  },
+  "-1002635217127": {
+    "admin_delete_time": null,
+    "whitelist": []
+  },
+  "-1002530702086": {
+    "admin_delete_time": null,
+    "whitelist": [
+      6952350788
+    ]
+  },
+  "-1002518198988": {
+    "admin_delete_time": null,
+    "whitelist": []
+  },
+  "-1002217108786": {
+    "admin_delete_time": null,
+    "whitelist": []
+  },
+  "-1002320001556": {
+    "admin_delete_time": null,
+    "whitelist": []
+  },
+  "-1002694776292": {
+    "admin_delete_time": null,
+    "whitelist": []
+  },
+  "8024622262": {
+    "admin_delete_time": null,
+    "whitelist": []
+  },
+  "-1002319084127": {
+    "admin_delete_time": null,
+    "whitelist": []
+  }
+}
